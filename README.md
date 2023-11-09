@@ -1,5 +1,5 @@
 # Building an E-Learning Platform: From Inception to Success
-![GitHub Logo](https://github.com/ADVindiancoder/Building-a-Java-Spring-Boot-Application/blob/main/2.png)
+![GitHub Logo](https://github.com/Project-Discussion/.github-Building-Java-Spring-Boot-Application/blob/main/2.png)
 
 ## 🚀 Step 1: Define Project Objectives and Scope
 
